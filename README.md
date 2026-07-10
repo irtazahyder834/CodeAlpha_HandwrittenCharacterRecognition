@@ -103,21 +103,5 @@ included in this package.
 - Extend to a CRNN (CNN + RNN/LSTM) for full word/sentence recognition.
 - Deploy as a public Streamlit Cloud / Hugging Face Space demo.
 
----
-
-### GitHub Description
-> CNN-based handwritten digit recognizer (PyTorch) trained on
-> MNIST, with a Streamlit app supporting image upload and live canvas
-> drawing predictions.
-
-### LinkedIn Description
-> Built an end-to-end handwritten character recognition system using a
-> Convolutional Neural Network (PyTorch) trained on the MNIST
-> dataset, reaching ~98-99% test accuracy. Deployed an interactive
-> Streamlit app that lets users draw or upload digits and get real-time
-> predictions with confidence scores — completed as part of the CodeAlpha
-> Machine Learning Internship. #MachineLearning #DeepLearning #CodeAlpha
-> #ComputerVision
-
 ### Repository Name
 `CodeAlpha_HandwrittenRecognition`
