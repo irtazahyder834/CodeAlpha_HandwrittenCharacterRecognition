@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Handwritten Character Recognition Banner" width="100%">
+</p>
+
 # ✍️ Handwritten Character Recognition
 
 A deep learning project that recognizes handwritten digits (0-9) using a Convolutional Neural Network (CNN) built with PyTorch and trained on the MNIST dataset, with an interactive Streamlit web interface for live predictions.
