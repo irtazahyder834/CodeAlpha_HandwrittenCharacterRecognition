@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Handwritten Character Recognition Banner" width="100%">
+  <img src="screenshots/banner.png" alt="Handwritten Character Recognition Banner" width="100%">
 </p>
 
 # ✍️ Handwritten Character Recognition
